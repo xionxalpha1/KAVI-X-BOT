@@ -2,7 +2,7 @@
   "name": "KAVI-X",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/KaviDeveloperSe/KAVI-X-BOT",
-  "logo": "https://i.postimg.cc/Gt0yZcBZ/kavix.jpg",
+  "logo": "https://raw.githubusercontent.com/KaviDeveloperSe/KAVI-X-BOT-DB/refs/heads/main/kavix01.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
